@@ -1,0 +1,7 @@
+{
+  "name": "ccapplication",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
